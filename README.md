@@ -1,8 +1,11 @@
 ### Hello, I'm Janice 👋
 
 I'm a data scientist based in Tokyo, Japan. 
+
 🔭 I’m currently working on writing a few blogs on SQL, Python, Tableau, Exploratory and Alteryx. 
+
 🌱 I’m currently learning how to use GAN (Generative adversarial network) to generate images. 
+
 😄 I'm excited about the future with AI. 
 
 ⚡ Besides coding, I bake 🍞 or take pictures 📷 of flowers 💐
