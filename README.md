@@ -9,8 +9,6 @@ I'm a data scientist based in Tokyo, Japan.
 😄 I'm excited about the future with AI. 
 
 ⚡ Besides coding, I bake 🍞 or take pictures 📷 of flowers 💐
-
-📫 Connect with me from my linkedin: https://www.linkedin.com/in/janice-koh-kar-oon/
 <!--
 **zapjanice/zapjanice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+📫 Connect with me from my linkedin: https://www.linkedin.com/in/janice-koh-kar-oon/
 -->
